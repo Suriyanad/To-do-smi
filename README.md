@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sonar status : [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Suriyanad_To-do-smi&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Suriyanad_To-do-smi)
+
 ## Available Scripts
 
 In the project directory, you can run:
